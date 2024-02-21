@@ -1,0 +1,19 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 844fbdc4-262b-4967-a6a4-9afd0c766b74)
+
+  (paper "A4")
+
+  (title_block
+    (title "Dumper Simple Circuit")
+    (date "2024-02-20")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
