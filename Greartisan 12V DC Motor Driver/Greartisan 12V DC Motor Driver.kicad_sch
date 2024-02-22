@@ -713,7 +713,7 @@
     (uuid fb252b7a-0ba8-43b9-a22a-d34d71132741)
   )
 
-  (image (at 55.88 165.1) (scale 0.574192)
+  (image (at 58.42 162.56) (scale 0.634671)
     (uuid c64d9629-7135-428a-ac79-cf61d8eb1ec9)
     (data
       iVBORw0KGgoAAAANSUhEUgAABYoAAAQKCAIAAABhTdm6AAAAA3NCSVQICAjb4U/gAAAACXBIWXMA
@@ -12257,7 +12257,7 @@
   )
 
   (symbol (lib_id "Driver_Motor:L298N") (at 152.4 87.63 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid ee0dfe3b-f11c-4b23-981d-e9293fcc095f)
     (property "Reference" "U1" (at 157.1341 67.31 0)
       (effects (font (size 1.27 1.27)) (justify left))
