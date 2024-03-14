@@ -1144,11 +1144,6 @@
     (uuid fe203438-8d2b-41a6-a07e-7cfe0b0469a5)
   )
 
-  (text "may want to revert\n" (at 90.17 40.64 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 6adb2245-b70d-48fd-a8d1-012d16d2a95e)
-  )
-
   (label "+2.5V" (at 66.04 92.71 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1eef37b7-bc34-4c67-a715-916b6980de5a)
